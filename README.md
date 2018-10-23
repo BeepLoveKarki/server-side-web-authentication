@@ -1,1 +1,1 @@
- Client side web authentication with data encryption decryption using redux framework. JWT (JSON Web Token) authentication with AES (Advanced Encyption Scheme) use. A config.js file is required with secret and dsecret keys export, can be any random strings.
+Server side web authentication with data encryption decryption using express framework. JWT (JSON Web Token) authentication with AES (Advanced Encyption Scheme) use. A config.js file is required with secret and dsecret keys export, can be any random strings.
